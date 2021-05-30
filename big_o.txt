@@ -1,0 +1,26 @@
+what is good code mean?
+1- readable
+2- scalable [big o]
+    a- speed (time) --> cpu [time complexity]
+    b- memory (space) --> ram [space complexity]
+
+calculating big o rules:-
+1- worst case
+2- remove constants
+3- different terms for inputs
+4- drop non dominants
+
+big o notations:-
+1- o(1) constant:- no loops
+2- 
+3- o(n) linear:- loops
+4- 
+5- o(n^2) quadratic:- nested loops
+6- 
+7- o(n!) factorial:- adding new nested loop for every element
+
+what cause space complexity:-
+1- variables
+2- data structures --> arrays, objects, hash tables
+3- function calls
+4- allocations
